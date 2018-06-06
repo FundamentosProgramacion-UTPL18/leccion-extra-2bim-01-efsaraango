@@ -9,7 +9,7 @@ package lecciónpromedio;
  *
  * @author SARANGO
  */
-public class Lecciónpromedio {
+public class Leccionpromedio {
 
     /**
      * @param args the command line arguments
